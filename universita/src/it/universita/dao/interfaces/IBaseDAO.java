@@ -7,3 +7,6 @@ public interface IBaseDAO<T> { //T rappresenta qualsiasi entità del dominio (do
     T findById(int id);
     ArrayList<T> findAll();
 } //caccapuzzina
+
+
+//uuuuuuuuuuuuuuuuuuuuuoooooooooooooooooooooo
