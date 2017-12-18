@@ -24,7 +24,7 @@ public class Main {
             System.out.println("MATRICOLA: "+riga[1]);
             System.out.println("-------------------");
         }
-    taglia tutto e lo mette nel loginlistener
+        taglia tutto e lo mette nel loginlistener
         */
 
     }

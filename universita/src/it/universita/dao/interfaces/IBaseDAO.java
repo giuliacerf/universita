@@ -6,7 +6,4 @@ import java.util.ArrayList;
 public interface IBaseDAO<T> { //T rappresenta qualsiasi entità del dominio (docente, studente, esame, corso, ...).T sta per Type
     T findById(int id);
     ArrayList<T> findAll();
-} //caccapuzzina
-
-
-//uuuuuuuuuuuuuuuuuuuuuoooooooooooooooooooooo
+}
